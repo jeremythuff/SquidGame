@@ -1,0 +1,47 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Huff\\Documents\\Gotot\\Projects\\SquidGame\\SquidGame.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Huff\\Documents\\Gotot\\Projects\\SquidGame\\SquidGame.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Huff\\Documents\\Gotot\\Projects\\SquidGame\\SquidGame.csproj",
+        "projectName": "SquidGame",
+        "projectPath": "C:\\Users\\Huff\\Documents\\Gotot\\Projects\\SquidGame\\SquidGame.csproj",
+        "packagesPath": "C:\\Users\\Huff\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Huff\\Documents\\Gotot\\Projects\\SquidGame\\.mono\\temp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Huff\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
